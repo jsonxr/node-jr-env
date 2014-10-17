@@ -1,5 +1,5 @@
 {
-  "name": "node-jr-env",
+  "name": "jr-env",
   "version": "1.0.0",
   "description": "Allows simple settings with environmental overrides from the command line",
   "main": "jr-env.js",
