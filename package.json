@@ -1,0 +1,23 @@
+{
+  "name": "node-jr-env",
+  "version": "1.0.0",
+  "description": "Allows simple settings with environmental overrides from the command line",
+  "main": "jr-env.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsonxr/node-jr-env.git"
+  },
+  "keywords": [
+    "environment"
+  ],
+  "author": "Jason Rowland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsonxr/node-jr-env/issues"
+  },
+  "homepage": "https://github.com/jsonxr/node-jr-env"
+}
